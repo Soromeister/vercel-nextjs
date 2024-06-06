@@ -101,6 +101,7 @@ Reasoning for the reply:
 - SEO issues;
 
 # 10. Feedback:
+The exercise document doesn't specify how to record the answers and thus, deploying the Next.js app was redundant and unnecessary.
 Would be nice to include a heads-up prior to setting up the deployment. This is very specific to my use case:
 - My personal GitHub account is linked to my employer's organization so that I may access private repositories;
 - When deploying a Next.js app, the deployment is done from the GitHub account, which is linked to the organization;
